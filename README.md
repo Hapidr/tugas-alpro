@@ -19,10 +19,14 @@ deskripsi\
   
 ### algoritma_operasi_matematika
 deklarasi\
-   |  x, y: int\
+     x, y, kurang, tambah, kali, bagi: int\
   deskripsi\
-   |  read(x, y)\
-   |  write(x - y)\
-   |  write(x + y)\
-   |  write(x * y)\
-   |  write(x / y)
+     read(x, y)\
+     kurang <- x-y\
+     tambah <- x+y\
+     kali <- x*y\
+     bagi <- x/y\
+     write(kurang)\
+     write(tambah\
+     write(kali)\
+     write(bagi)
