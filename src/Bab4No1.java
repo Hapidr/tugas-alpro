@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bab4 {
+public class Bab4No1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double r, t, volume, phi;

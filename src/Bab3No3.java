@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Segitiga {
+public class Bab3No3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int tinggi, alas;

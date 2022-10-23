@@ -1,4 +1,4 @@
-public class RataRata {
+public class Bab4No2 {
     public static void main(String[] args) {
         float a = 5, b = 9, c = 7;
         double rata_rata = (a+b+c)/3;

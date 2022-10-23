@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bab3 {
+public class Bab3No1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Bilangan 1 : ");

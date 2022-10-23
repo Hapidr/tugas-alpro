@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lingkaran {
+public class Bab3No2 {
     public static void main(String[] args) {
         int r;
         double keliling, luas, phi;
