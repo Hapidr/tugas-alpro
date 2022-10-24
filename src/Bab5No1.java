@@ -12,11 +12,11 @@ public class Bab5No1 {
 
         int d = b*b-(4*a*c);
         if (d == 0){
-            System.out.println("a = " + a + " b = " + b + " c = " + c + " d = " + "Akar kembar");
+            System.out.println(d + " Akar kembar");
         } else if (d > 0){
-            System.out.println("a = " + a + " b = " + b + " c = " + c + " d = " + "Akar beda");
+            System.out.println(d + " Akar beda");
         } else{
-            System.out.println("a = " + a + " b = " + b + " c = " + c + " d = " + "Akar imajiner");
+            System.out.println(d + " Akar imajiner");
         }
 
     }
