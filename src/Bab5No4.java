@@ -5,11 +5,11 @@ public class Bab5No4 {
         System.out.print("Masukkan angka: ");
         Scanner input = new Scanner(System.in);
         int angka = input.nextInt();
-        if (angka == 0){
+        if (angka == 0) {
             System.out.println(angka + " adalah Nol");
-        } else if (angka % 2 == 0){
+        } else if (angka % 2 == 0) {
             System.out.println(angka + " adalah bilangan Genap");
-        } else{
+        } else {
             System.out.println(angka + " adalah bilangan Ganjil");
         }
     }

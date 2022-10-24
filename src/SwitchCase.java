@@ -6,20 +6,20 @@ public class SwitchCase {
         System.out.print("Masukkan pilihan: ");
         int pil = input.nextInt();
 
-        switch(pil){
-            case(1):
+        switch (pil) {
+            case (1):
                 System.out.println("Jurusan TIF/S1");
                 break;
-            case(2):
+            case (2):
                 System.out.println("Jurusan SI/S1");
                 break;
-            case(3):
+            case (3):
                 System.out.println("Jurusan TI/S1");
                 break;
-            case(4):
+            case (4):
                 System.out.println("Jurusan MT/S1");
                 break;
-            case(5):
+            case (5):
                 System.out.println("Jurusan TE/S1");
                 break;
             default:

@@ -10,12 +10,12 @@ public class Bab5No1 {
         System.out.print("Masukkan nilai c: ");
         int c = input.nextInt();
 
-        int d = b*b-(4*a*c);
-        if (d == 0){
+        int d = b * b - (4 * a * c);
+        if (d == 0) {
             System.out.println(d + " Akar kembar");
-        } else if (d > 0){
+        } else if (d > 0) {
             System.out.println(d + " Akar beda");
-        } else{
+        } else {
             System.out.println(d + " Akar imajiner");
         }
 

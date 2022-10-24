@@ -6,11 +6,11 @@ public class Bab5No3 {
         System.out.print("Masukkan angka: ");
         int angka = input.nextInt();
 
-        if (angka == 0){
+        if (angka == 0) {
             System.out.println(angka + " adalah NOL");
-        } else if(angka > 0){
+        } else if (angka > 0) {
             System.out.println(angka + " adalah positif");
-        } else{
+        } else {
             System.out.println(angka + " adalah negatif");
         }
     }

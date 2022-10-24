@@ -10,7 +10,7 @@ public class Bab3No3 {
         tinggi = input.nextInt();
         System.out.print("Masukkan alas : ");
         alas = input.nextInt();
-        luas = (1/2. * alas) * tinggi;
+        luas = (1 / 2. * alas) * tinggi;
 
         System.out.println("Luas segitiga adalah " + luas);
     }

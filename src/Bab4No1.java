@@ -10,7 +10,7 @@ public class Bab4No1 {
         System.out.print("Masukkan tinggi : ");
         t = input.nextFloat();
 
-        volume = phi * (r*r) * t;
+        volume = phi * (r * r) * t;
         System.out.println("Volume tabung adalah = " + volume);
     }
 }
