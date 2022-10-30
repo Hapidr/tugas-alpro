@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class SwitchCase {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        System.out.println("1 = TIF/S1\n2 = SI/S1\n3 = TI/S1\n4 = MT/S1\n5 = TE/S1");
         System.out.print("Masukkan pilihan: ");
         int pil = input.nextInt();
 
