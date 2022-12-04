@@ -5,6 +5,6 @@ public class Bab1 {
         System.out.println("1. Roti Bakar");
         System.out.println("2. Pisang Bakar");
         System.out.println("3. Nasi Bakar");
-        System.out.println("Selamat Menikmati\n");
+        System.out.println("Selamat Menikmati yahaha\n");
     }
 }
