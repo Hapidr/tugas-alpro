@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Larik1 {
+public class Larik1Mean {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         float[] nilai = new float[5];
@@ -23,6 +23,6 @@ public class Larik1 {
         }
 
         System.out.println("\nJumlah = " + jumlah);
-        System.out.println("Rata-rata = " + (jumlah/nilai.length));
+        System.out.println("Rata-rata = " + (jumlah / nilai.length));
     }
 }
